@@ -1,0 +1,14 @@
+.heads {
+  background-position: center;
+  background-color: rgb(138, 43, 8);
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 20px;
+}

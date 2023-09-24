@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import "./nav.css";
-import { Link, useNavigate } from "react-router-dom"; // Import Link and useNavigate
+import TextField from "@mui/material/TextField";
+import List from "../Lists/list";
+
+import { Link, useNavigate } from "react-router-dom";
 
 function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
@@ -8,7 +11,12 @@ function Navigation() {
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
-
+  const [inputText, setInputText] = useState("");
+  let inputHandler = (e) => {
+    //convert input text to lower case
+    var lowerCase = e.target.value.toLowerCase();
+    setInputText(lowerCase);
+  };
   return (
     <div className="navigation">
       <div className="first">
@@ -23,10 +31,19 @@ function Navigation() {
             <img src="./img/recipe.png" alt="Logo" />
           </div>
         </div>
-        <div className="site-name">Recipees</div>
         <div className="right">
-          <div className="search-bar">
-            <input type="text" placeholder="Search..." />
+          <div className="Sea">
+            <div className="search">
+              <TextField
+                id="outlined-basic"
+                onChange={inputHandler}
+                variant="outlined"
+                fullWidth
+                label="Search"
+                style={{ width: "520px" }}
+              />
+            </div>
+            <List classsname="lists" input={inputText} />
           </div>
 
           <div className="login-signup">

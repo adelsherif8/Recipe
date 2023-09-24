@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "image": "/Recipes/pancake.jpg",
+    "type": "breakfast",
+    "text": "Classic Pancakes",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tablespoons sugar",
+      "2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1 cup milk",
+      "1 large egg",
+      "2 tablespoons melted butter",
+      "1 teaspoon vanilla extract"
+    ],
+    "instructions": [
+      "In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt.",
+      "In a separate bowl, whisk together the milk, egg, melted butter, and vanilla extract.",
+      "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+      "Heat a griddle or non-stick skillet over medium heat and lightly grease with butter or oil.",
+      "Pour 1/4 cup of batter onto the griddle for each pancake.",
+      "Cook until bubbles form on the surface, then flip and cook until golden brown.",
+      "Serve with your favorite toppings."
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/Recipes/AvocadoToast.jpg",
+    "type": "breakfast",
+    "text": "Avocado Toast",
+    "ingredients": [
+      "2 slices whole-grain bread",
+      "1 ripe avocado",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional)",
+      "Poached or fried egg (optional)",
+      "Cherry tomatoes (optional)"
+    ],
+    "instructions": [
+      "Toast the bread slices until golden brown.",
+      "Mash the ripe avocado and spread it evenly on the toasted bread slices.",
+      "Season with salt, pepper, and red pepper flakes (if using).",
+      "Top with a poached or fried egg and cherry tomatoes if desired.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "type": "breakfast",
+    "image": "/Recipes/OatmealBerries.jpg",
+    "text": "Oatmeal with Berries",
+    "ingredients": [
+      "1/2 cup old-fashioned oats",
+      "1 cup milk (or water for a lighter option)",
+      "1/4 teaspoon cinnamon",
+      "1 tablespoon honey or maple syrup",
+      "Fresh berries (e.g., strawberries, blueberries)",
+      "Nuts or seeds for topping (e.g., almonds, chia seeds)"
+    ],
+    "instructions": [
+      "In a saucepan, combine the oats, milk, and cinnamon. Bring to a simmer over medium heat.",
+      "Cook, stirring occasionally, for about 5 minutes or until the oats are creamy and tender.",
+      "Stir in the honey or maple syrup.",
+      "Transfer the oatmeal to a bowl and top with fresh berries and your choice of nuts or seeds."
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/Recipes/GreekYogurtParfait.jpg",
+    "type": "breakfast",
+    "text": "Greek Yogurt Parfait",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "2 tablespoons honey",
+      "1/2 cup granola",
+      "1/2 cup mixed berries (e.g., raspberries, blueberries)",
+      "A drizzle of almond butter (optional)"
+    ],
+    "instructions": [
+      "In a glass or bowl, layer Greek yogurt, honey, granola, and mixed berries.",
+      "Repeat the layers until the container is filled.",
+      "Drizzle with almond butter if desired.",
+      "Serve chilled."
+    ]
+  },
+  {
+    "type": "breakfast",
+    "image": "/Recipes/EggandCheeseBreakfastQuesadilla.jpg",
+    "text": "Egg and Cheese Breakfast Quesadilla",
+    "ingredients": [
+      "2 large eggs",
+      "Salt and pepper to taste",
+      "1/4 cup shredded cheddar cheese",
+      "2 small flour tortillas",
+      "Butter or oil for cooking"
+    ],
+    "instructions": [
+      "In a bowl, beat the eggs and season with salt and pepper.",
+      "Heat a non-stick skillet over medium heat and add a little butter or oil.",
+      "Pour the beaten eggs into the skillet and cook until set, then sprinkle the cheese on top.",
+      "Place one tortilla on top of the eggs and cheese, then carefully flip the quesadilla to cook the other side.",
+      "Remove from the skillet and cut into wedges.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": 6,
+    "type": "breakfast",
+    "image": "/Recipes/FruitSmoothieBowl.jpg",
+    "text": "Fruit Smoothie Bowl",
+    "ingredients": [
+      "1 frozen banana",
+      "1/2 cup frozen berries (e.g., mixed berries, strawberries)",
+      "1/2 cup Greek yogurt",
+      "1/4 cup granola",
+      "Fresh fruit for topping (e.g., kiwi, banana slices)",
+      "Nuts or seeds for topping (e.g., almonds, chia seeds)"
+    ],
+    "instructions": [
+      "Blend the frozen banana, frozen berries, and Greek yogurt until smooth.",
+      "Pour the smoothie into a bowl.",
+      "Top with granola, fresh fruit, and your choice of nuts or seeds.",
+      "Enjoy with a spoon!"
+    ]
+  }
+]

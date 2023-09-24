@@ -8,6 +8,7 @@
 .first {
   display: flex;
   flex-direction: row;
+  gap: 700px;
 }
 .left,
 .right {
@@ -55,11 +56,13 @@
   padding: 8px 14px;
   border-radius: 4px;
   cursor: pointer;
+  max-height: 50px;
 }
 .login-signup {
   display: flex;
   gap: 10px;
   width: 150px;
+  margin-left: 25px;
 }
 .menu {
   list-style-type: none;

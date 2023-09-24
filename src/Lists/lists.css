@@ -1,0 +1,36 @@
+.search {
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+li {
+  border-bottom: solid grey;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+img {
+  width: 80px;
+  margin-left: -25px;
+}
+.SearchFull {
+  width: 480px;
+  display: flex;
+  gap: 20px;
+}
+.SearchDisc {
+  display: flex;
+  flex-direction: column;
+}
+.SearchHeading {
+  font-weight: 1000;
+}
+text {
+  margin-bottom: 10px;
+}
+.listRecipe ul {
+  max-height: 250px;
+  overflow-y: auto;
+}

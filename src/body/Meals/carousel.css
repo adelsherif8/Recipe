@@ -1,0 +1,32 @@
+.slide-container1,
+.slide-container2 {
+  width: 50%;
+  overflow: hidden;
+}
+.slide-container1 {
+  margin-left: 741px;
+}
+.slide-container2 {
+  margin-left: 0px;
+}
+
+.each-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 300px;
+  position: relative;
+}
+
+.each-slide span {
+  font-size: 20px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}

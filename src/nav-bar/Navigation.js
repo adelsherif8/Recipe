@@ -28,7 +28,9 @@ function Navigation() {
           </div>
 
           <div className="logo">
-            <img src="./img/recipe.png" alt="Logo" />
+            <Link to="/">
+              <img src="./img/recipe.png" alt="Logo" />
+            </Link>
           </div>
         </div>
         <div className="right">

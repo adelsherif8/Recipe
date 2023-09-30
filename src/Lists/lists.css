@@ -34,3 +34,13 @@ text {
   max-height: 250px;
   overflow-y: auto;
 }
+a {
+  display: flex;
+  text-decoration: none;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}

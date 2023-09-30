@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "image": "/Recipes/pancake.jpg",
     "type": "breakfast",
     "text": "Classic Pancakes",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 1,
     "image": "/Recipes/AvocadoToast.jpg",
     "type": "breakfast",
     "text": "Avocado Toast",
@@ -46,6 +46,7 @@
     ]
   },
   {
+    "id": 2,
     "type": "breakfast",
     "image": "/Recipes/OatmealBerries.jpg",
     "text": "Oatmeal with Berries",
@@ -65,7 +66,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "image": "/Recipes/GreekYogurtParfait.jpg",
     "type": "breakfast",
     "text": "Greek Yogurt Parfait",
@@ -84,6 +85,7 @@
     ]
   },
   {
+    "id": 4,
     "type": "breakfast",
     "image": "/Recipes/EggandCheeseBreakfastQuesadilla.jpg",
     "text": "Egg and Cheese Breakfast Quesadilla",
@@ -104,7 +106,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "type": "breakfast",
     "image": "/Recipes/FruitSmoothieBowl.jpg",
     "text": "Fruit Smoothie Bowl",
@@ -121,6 +123,312 @@
       "Pour the smoothie into a bowl.",
       "Top with granola, fresh fruit, and your choice of nuts or seeds.",
       "Enjoy with a spoon!"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "lunch",
+    "image": "/Recipes/ChickenSalad.jpg",
+    "text": "Chicken Salad",
+    "ingredients": [
+      "2 cups cooked chicken, diced",
+      "1/2 cup celery, chopped",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup mayonnaise",
+      "1/4 cup Greek yogurt",
+      "1 tablespoon lemon juice",
+      "Salt and pepper to taste",
+      "Lettuce leaves for serving",
+      "Tomato slices for garnish (optional)"
+    ],
+    "instructions": [
+      "In a large bowl, combine the diced chicken, celery, and red onion.",
+      "In a small bowl, whisk together the mayonnaise, Greek yogurt, lemon juice, salt, and pepper.",
+      "Pour the dressing over the chicken mixture and toss to coat.",
+      "Refrigerate for at least 30 minutes to allow flavors to meld.",
+      "Serve on a bed of lettuce leaves and garnish with tomato slices if desired."
+    ]
+  },
+  {
+    "id": 7,
+    "type": "lunch",
+    "image": "/Recipes/QuinoaSalad.jpg",
+    "text": "Quinoa Salad",
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups water",
+      "1 cup cherry tomatoes, halved",
+      "1 cucumber, diced",
+      "1/2 cup red bell pepper, diced",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup fresh parsley, chopped",
+      "1/4 cup feta cheese, crumbled",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Rinse the quinoa under cold water. In a medium saucepan, bring 2 cups of water to a boil and add the quinoa.",
+      "Reduce heat, cover, and simmer for about 15 minutes or until water is absorbed and quinoa is cooked.",
+      "Fluff the quinoa with a fork and let it cool.",
+      "In a large bowl, combine the quinoa, cherry tomatoes, cucumber, red bell pepper, red onion, parsley, and feta cheese.",
+      "In a small bowl, whisk together the olive oil, lemon juice, salt, and pepper. Pour over the salad and toss to combine.",
+      "Refrigerate for at least 30 minutes before serving."
+    ]
+  },
+  {
+    "id": 8,
+    "type": "lunch",
+    "image": "/Recipes/VeggieWrap.jpg",
+    "text": "Vegetable Wrap",
+    "ingredients": [
+      "1 large whole-grain wrap or tortilla",
+      "2 tablespoons hummus",
+      "1/4 cup cucumber, sliced",
+      "1/4 cup carrot, grated",
+      "1/4 cup bell peppers, thinly sliced",
+      "1/4 cup spinach leaves",
+      "1/4 avocado, sliced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Spread the hummus evenly over the wrap.",
+      "Layer the cucumber, carrot, bell peppers, spinach, and avocado on one side of the wrap.",
+      "Season with salt and pepper to taste.",
+      "Fold in the sides of the wrap and roll it up tightly.",
+      "Cut in half and serve."
+    ]
+  },
+  {
+    "id": 9,
+    "type": "lunch",
+    "image": "/Recipes/MushroomRisotto.jpg",
+    "text": "Mushroom Risotto",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "4 cups vegetable broth",
+      "1 cup mushrooms, sliced",
+      "1/2 cup onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup dry white wine (optional)",
+      "1/4 cup Parmesan cheese, grated",
+      "2 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "In a saucepan, warm the vegetable broth over low heat.",
+      "In a large skillet, heat the olive oil and butter over medium heat. Add the onions and garlic and sauté until softened.",
+      "Add the Arborio rice and cook for a few minutes until lightly toasted.",
+      "If using, pour in the white wine and cook until absorbed.",
+      "Begin adding the warm broth, one ladle at a time, stirring frequently. Allow the liquid to absorb before adding more.",
+      "Stir in the sliced mushrooms and continue adding broth until the rice is creamy and cooked to your liking.",
+      "Stir in the Parmesan cheese and season with salt and pepper.",
+      "Garnish with fresh parsley before serving."
+    ]
+  },
+  {
+    "id": 10,
+    "type": "lunch",
+    "image": "/Recipes/ChickpeaSalad.jpg",
+    "text": "Chickpea Salad",
+    "ingredients": [
+      "2 cups canned chickpeas, drained and rinsed",
+      "1 cup cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup red onion, finely chopped",
+      "1/4 cup fresh parsley, chopped",
+      "1/4 cup feta cheese, crumbled",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large bowl, combine the chickpeas, cucumber, cherry tomatoes, red onion, parsley, and feta cheese.",
+      "In a small bowl, whisk together the olive oil, lemon juice, salt, and pepper. Pour over the salad and toss to combine.",
+      "Refrigerate for at least 30 minutes before serving."
+    ]
+  },
+  {
+    "id": 11,
+    "type": "lunch",
+    "image": "/Recipes/CapreseSalad.jpg",
+    "text": "Caprese Salad",
+    "ingredients": [
+      "2 large tomatoes, sliced",
+      "1 ball fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Balsamic glaze",
+      "Extra virgin olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Arrange the tomato and mozzarella slices on a serving platter, alternating and slightly overlapping them.",
+      "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+      "Drizzle with balsamic glaze and extra virgin olive oil.",
+      "Season with salt and pepper to taste.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 12,
+    "type": "dinner",
+    "image": "/Recipes/SpaghettiBolognese.jpg",
+    "text": "Spaghetti Bolognese",
+    "ingredients": [
+      "8 ounces spaghetti",
+      "1/2 pound ground beef",
+      "1/2 pound ground pork",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "1 carrot, grated",
+      "1 celery stalk, finely chopped",
+      "1 can (14 oz) crushed tomatoes",
+      "1/4 cup tomato paste",
+      "1/2 cup red wine (optional)",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "Cook the spaghetti according to package instructions. Drain and set aside.",
+      "In a large skillet, brown the ground beef and ground pork over medium heat. Drain excess fat if necessary.",
+      "Add the chopped onion, garlic, grated carrot, and chopped celery to the skillet. Cook until vegetables are tender.",
+      "Stir in the crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and pepper. Simmer for about 20 minutes.",
+      "Serve the Bolognese sauce over the cooked spaghetti. Garnish with fresh parsley and grated Parmesan cheese."
+    ]
+  },
+  {
+    "id": 13,
+    "type": "dinner",
+    "image": "/Recipes/GrilledSalmon.jpg",
+    "text": "Grilled Salmon",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "2 cloves garlic, minced",
+      "1 teaspoon dried dill",
+      "Salt and pepper to taste",
+      "Lemon wedges for serving"
+    ],
+    "instructions": [
+      "Preheat the grill to medium-high heat.",
+      "In a small bowl, whisk together the olive oil, lemon juice, minced garlic, dried dill, salt, and pepper.",
+      "Brush the salmon fillets with the marinade.",
+      "Place the salmon on the grill and cook for about 4-5 minutes per side, or until the salmon is cooked through and flakes easily with a fork.",
+      "Serve with lemon wedges."
+    ]
+  },
+  {
+    "id": 14,
+    "type": "dinner",
+    "image": "/Recipes/ChickenStirFry.jpg",
+    "text": "Chicken Stir-Fry",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts, thinly sliced",
+      "2 tablespoons soy sauce",
+      "1 tablespoon oyster sauce",
+      "1 tablespoon hoisin sauce",
+      "1 tablespoon sesame oil",
+      "2 cloves garlic, minced",
+      "1-inch piece of ginger, grated",
+      "2 cups mixed vegetables (e.g., broccoli, bell peppers, snap peas)",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "In a bowl, combine the sliced chicken with soy sauce, oyster sauce, and hoisin sauce. Toss to coat and let it marinate for 10 minutes.",
+      "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+      "Add the minced garlic and grated ginger and stir-fry for about 30 seconds.",
+      "Add the marinated chicken and cook until no longer pink.",
+      "Add the mixed vegetables and continue to stir-fry until the vegetables are tender-crisp.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "id": 15,
+    "type": "dinner",
+    "image": "/Recipes/VegetarianChili.jpg",
+    "text": "Vegetarian Chili",
+    "ingredients": [
+      "1 tablespoon olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 bell pepper, chopped",
+      "1 zucchini, diced",
+      "1 cup corn kernels",
+      "1 can (14 oz) diced tomatoes",
+      "1 can (14 oz) black beans, drained and rinsed",
+      "1 can (14 oz) kidney beans, drained and rinsed",
+      "1 can (14 oz) pinto beans, drained and rinsed",
+      "2 tablespoons chili powder",
+      "1 teaspoon cumin",
+      "1 teaspoon paprika",
+      "Salt and pepper to taste",
+      "Sour cream and shredded cheese for garnish (optional)"
+    ],
+    "instructions": [
+      "In a large pot, heat the olive oil over medium heat.",
+      "Add the chopped onion, minced garlic, bell pepper, zucchini, and corn. Cook until vegetables are tender.",
+      "Stir in the diced tomatoes, black beans, kidney beans, pinto beans, chili powder, cumin, paprika, salt, and pepper.",
+      "Simmer for about 30 minutes, stirring occasionally.",
+      "Serve hot with optional garnishes like sour cream and shredded cheese."
+    ]
+  },
+  {
+    "id": 16,
+    "type": "dinner",
+    "image": "/Recipes/VegetableStirFry.jpg",
+    "text": "Vegetable Stir-Fry",
+    "ingredients": [
+      "2 cups mixed vegetables (e.g., broccoli, carrots, bell peppers, snap peas)",
+      "2 tablespoons soy sauce",
+      "1 tablespoon hoisin sauce",
+      "1 tablespoon sesame oil",
+      "2 cloves garlic, minced",
+      "1-inch piece of ginger, grated",
+      "2 green onions, chopped",
+      "Cooked rice or noodles for serving"
+    ],
+    "instructions": [
+      "In a large skillet or wok, heat the sesame oil over medium-high heat.",
+      "Add the minced garlic and grated ginger and stir-fry for about 30 seconds.",
+      "Add the mixed vegetables and stir-fry until tender-crisp.",
+      "In a small bowl, whisk together the soy sauce and hoisin sauce. Pour over the vegetables and toss to coat.",
+      "Stir in the chopped green onions.",
+      "Serve over cooked rice or noodles."
+    ]
+  },
+  {
+    "id": 17,
+    "type": "dinner",
+    "image": "/Recipes/BeefStew.jpg",
+    "text": "Beef Stew",
+    "ingredients": [
+      "1 pound beef stew meat, cubed",
+      "2 tablespoons flour",
+      "2 tablespoons vegetable oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "4 carrots, sliced",
+      "4 potatoes, peeled and diced",
+      "4 cups beef broth",
+      "1 can (14 oz) diced tomatoes",
+      "1 teaspoon dried thyme",
+      "1 teaspoon dried rosemary",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Toss the beef stew meat in flour to coat.",
+      "In a large pot, heat the vegetable oil over medium-high heat. Add the coated beef and brown on all sides. Remove from the pot and set aside.",
+      "In the same pot, add the chopped onion and cook until softened.",
+      "Stir in the minced garlic, sliced carrots, and diced potatoes.",
+      "Return the browned beef to the pot and pour in the beef broth, diced tomatoes, thyme, rosemary, salt, and pepper.",
+      "Simmer for about 1.5 to 2 hours, or until the beef is tender.",
+      "Serve hot."
     ]
   }
 ]
